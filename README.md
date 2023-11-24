@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://github.com/xtt129/clash/raw/master/docs/logo.png" alt="Clash" width="200">
   <br>
   Clash
   <br>
@@ -12,11 +12,11 @@
     <img src="https://img.shields.io/travis/Dreamacro/clash.svg?style=flat-square"
          alt="Travis-CI">
   </a>
-  <a href="https://goreportcard.com/report/github.com/Dreamacro/clash">
-      <img src="https://goreportcard.com/badge/github.com/Dreamacro/clash?style=flat-square">
+  <a href="https://goreportcard.com/report/github.com/xtt129/clash">
+      <img src="https://goreportcard.com/badge/github.com/xtt129/clash?style=flat-square">
   </a>
   <a href="https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=shield"/></a>
-  <a href="https://github.com/Dreamacro/clash/releases">
+  <a href="https://github.com/xtt129/clash/releases">
     <img src="https://img.shields.io/github/release/Dreamacro/clash/all.svg?style=flat-square">
   </a>
 </p>
@@ -32,10 +32,10 @@
 You can build from source:
 
 ```sh
-go get -u -v github.com/Dreamacro/clash
+go get -u -v github.com/xtt129/clash
 ```
 
-Pre-built binaries are available: [release](https://github.com/Dreamacro/clash/releases)
+Pre-built binaries are available: [release](https://github.com/xtt129/clash/releases)
 
 Requires Go >= 1.10.
 
@@ -53,7 +53,7 @@ pm2 start clash
 
 If you have Docker installed, you can run clash directly using `docker-compose`.
 
-[Run clash in docker](https://github.com/Dreamacro/clash/wiki/Run-clash-in-docker)
+[Run clash in docker](https://github.com/xtt129/clash/wiki/Run-clash-in-docker)
 
 ## Config
 

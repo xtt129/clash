@@ -5,7 +5,7 @@ import (
 	"io"
 	"net"
 
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/xtt129/clash/constant"
 )
 
 type HttpsAdapter struct {

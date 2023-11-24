@@ -1,7 +1,7 @@
 package rules
 
 import (
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/xtt129/clash/constant"
 
 	"github.com/oschwald/geoip2-golang"
 	log "github.com/sirupsen/logrus"

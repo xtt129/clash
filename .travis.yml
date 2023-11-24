@@ -22,6 +22,6 @@ deploy:
   file: bin/*
   file_glob: true
   on:
-    repo: Dreamacro/clash
+    repo: xtt129/clash
     branch: master
     tags: true
